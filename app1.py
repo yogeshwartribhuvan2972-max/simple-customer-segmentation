@@ -37,9 +37,7 @@ st.write(
 # LOAD TRAINING DATA
 # -------------------------------------------------
 
-df = pd.read_excel(
-    r"C:\Users\admin\OneDrive\Desktop\UPGRAD\ml\Projects\Flipkart_KMeans_Project\Customer_dataset1.xlsx"
-)
+df = pd.read_excel("Customer_dataset1.xlsx")
 
 
 # -------------------------------------------------
